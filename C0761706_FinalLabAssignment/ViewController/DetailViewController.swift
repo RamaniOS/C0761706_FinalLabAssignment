@@ -9,7 +9,7 @@
 import UIKit
 
 enum ControlType: String {
-    case add = "Add Product", detail = "Detail Product"
+    case add = "Add Product", detail = "Product Details"
 }
 
 class DetailViewController: AbstractViewController {
